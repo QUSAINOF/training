@@ -1,0 +1,46 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    
+}
+.middle-body{
+  line-height: 2;
+  padding-top: 2%;
+}
+.top-img {
+  width: -webkit-fill-available;
+  height: 10%;
+
+}
+.code-img{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.develop-img{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.second-middle{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+h1{
+  color: red;
+}
+h2{
+color: blue;
+}
+h3{
+color: green;
+}
+hr{
+  border-color: gray;
+  border-style: dotted none none;
+  width: 10%;
+  border-width: 5px;
+}
